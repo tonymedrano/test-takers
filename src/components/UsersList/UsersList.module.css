@@ -1,0 +1,29 @@
+/*
+ * Filename: /Users/tonymedrano/Desktop/test-takers/src/components/UsersList/UserList.module.css
+ * Path: /Users/tonymedrano/Desktop/test-takers
+ * Created Date: Wednesday, September 2nd 2020, 11:21:12 am
+ * Author: Tony Alexander Medrano
+ * 
+ * Copyright (c) 2020 Your Company
+ */
+
+.UsersList {
+    display: block;
+    margin: 1.75rem 0;
+    padding-left: 1rem;
+}
+ 
+.List {
+    list-style: none;
+}
+
+.Item {
+    width: 300px;
+    padding: 16px;
+    text-align: center;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    margin: 10px;
+    box-sizing: border-box;
+    text-transform: capitalize;
+}
